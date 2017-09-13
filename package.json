@@ -3,8 +3,13 @@
   "version": "0.0.1",
   "private": "true",
   "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.17.2",
+    "cookie": "^0.3.1",
+    "cors": "^2.8.4",
     "express": "*",
-    "mongoose": "^4.11.9"
+    "mongoose": "^4.11.9",
+    "session-file-store": "^1.1.2"
   },
   "description": "\"# Mean-Stack-TTA\"",
   "main": "index.js",
